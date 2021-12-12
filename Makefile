@@ -44,7 +44,7 @@ help:
 	@echo "login       - login to github registry (asks for github access token)"
 	@echo "build       - build the avr docker image"
 	@echo "push        - push the avr docker image to github"
-	@echo "run         - run container for local testing"
+	@echo "run         - run container for local testing (PROJECT_ROOT)"
 	@echo "images      - list local images"
 	@echo "containers  - list local containers"
 	@echo ""
